@@ -125,7 +125,7 @@ async def mentionall(event):
         await event.respond("⛔ Tağ Prosesi Dayandırıldı",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/{Ballasticaret}')
+                       Button.url('📣 Support', f'https://t.me/{SWXChatt}')
                       ]
                     )
                   )
